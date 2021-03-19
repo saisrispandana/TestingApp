@@ -4,6 +4,8 @@ public class Add {
           // TODO Auto-generated method stub
           int a=3,b=2,c;
           c=a+b;
-          System.out.println("C value"+c);
+          int d=a+b+c;
+          System.out.println("C value:"+c);
+          System.out.println("d value:"+d);
           }
 }
